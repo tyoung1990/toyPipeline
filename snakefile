@@ -1,2 +1,3 @@
 # toyPipeline
 
+# configuration options
