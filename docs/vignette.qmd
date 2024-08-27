@@ -1,3 +1,8 @@
+---
+title: "Vignette"
+format: html
+---
+
 This is a vignette!
 Assign Nove to the task of writing this vignette.
 Need to start by finding an example dataset.
