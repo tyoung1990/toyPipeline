@@ -1,1 +1,2 @@
 This is a vignette!
+Assign Nove to the task of writing this vignette.
