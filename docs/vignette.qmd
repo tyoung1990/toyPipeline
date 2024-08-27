@@ -1,3 +1,4 @@
 This is a vignette!
 Assign Nove to the task of writing this vignette.
 Need to start by finding an example dataset.
+this is a qmd, so we need a header and we can include output in the vignette.
